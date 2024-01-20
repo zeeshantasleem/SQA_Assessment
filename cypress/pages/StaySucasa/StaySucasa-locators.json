@@ -1,0 +1,7 @@
+{
+    "workFromAnyWhereText": ".standard-item > .img-container + h4:contains('Work From Anywhere')",
+    "transparentPricingText": ".standard-item > .img-container + h4:contains('Transparent Pricing')",
+    "premiumPropertiesText": ".standard-item > .img-container + h4:contains('Premium Properties')",
+    "findStaysBtn": ".mx-auto:contains('Find Stays')",
+    "workFromAnyWhereSection": ".discover-text-side"
+}

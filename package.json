@@ -1,0 +1,21 @@
+{
+  "name": "my_automation_suite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/zeeshantasleem/my_automation_suite"
+  },
+  "author": "Zeeshan Tasleem",
+  "license": "ISC",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.0",
+    "@cypress/webpack-preprocessor": "^6.0.0",
+    "cypress": "^13.6.1",
+    "cypress-real-events": "^1.11.0"
+  }
+}
